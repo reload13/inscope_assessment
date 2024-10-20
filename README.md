@@ -98,3 +98,8 @@ The database seeder creates two users:
    - **Email:** `moderator@example.com`  
    - **Password:** `password`  
    - **Role:** `moderator`
+
+Tests can be run with:
+```bash
+    sail artisan test
+```
