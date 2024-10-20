@@ -1,8 +1,8 @@
-# Project Name
+# InScope assessment
 
 ## Description
 
-InScope assesment - Project management
+InScope assessment - Project management
 
 ## Installation
 
